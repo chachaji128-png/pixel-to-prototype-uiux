@@ -1,3 +1,11 @@
 # Mobile App Wireframing
 
-This folder contains the mobile application wireframing work completed as part of the Pixel to Prototype UI/UX project.
+This module contains the low-fidelity wireframes created for the mobile application.
+
+## Screens
+
+- Splash Screen
+- Onboarding Screen
+- Sign Up Screen
+- Home Screen
+- Profile Screen
